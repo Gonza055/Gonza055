@@ -1,5 +1,3 @@
-# Gonzalo-Loayza
-
 <h1 align="center">Hi 👋 I'm Gonzalo Loayza</h1>
 
 # 💫 About Me:
