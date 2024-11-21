@@ -8,7 +8,7 @@ I am a third-year computer science student at BYU, passionate about exploring th
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 📊 Building My Data Analytics Skills with [Platzi](https://platzi.com/home/).
 
-Check out my [coding portfolio!](https://matias.me/nsfw/)
+Check out my [coding portfolio!](https://gonzalo-loayza.carrd.co/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzaloayza/)
